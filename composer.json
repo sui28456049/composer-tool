@@ -1,12 +1,14 @@
 {
     "name": "sui/php-tools",
     "description": "随某人常用 php 工具包",
+    "license": "MIT",
     "authors": [
         {
             "name": "lucky sui",
             "email": "28456049@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
